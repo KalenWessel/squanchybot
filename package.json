@@ -1,0 +1,27 @@
+{
+    "name": "squanchbot",
+    "version": "0.0.1",
+    "description": "A slackbot for interacting with Openstack instances.",
+    "main": "index.js",
+    "dependencies": {
+        "openstack-wrapper": "^1.4.5",
+        "request": "^2.65.0",
+        "slack-terminalize": "^1.0.0"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git@github.paypal.com:kwessel/squanchybot.git"
+    },
+    "engines": {
+        "node": "0.12.x"
+    },
+    "keywords": [
+        "slack",
+        "terminal"
+    ],
+    "author": "Kalen Wessel",
+    "license": "MIT"
+}

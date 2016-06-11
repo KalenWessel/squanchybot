@@ -14,7 +14,8 @@
 
     "nova": {
         "alias": [ "showme" ],
-        "help": "nova instance_name"
+        "help": "nova [datacenter] <instance_name> ex. nova scl1 xmapi",
+        "description": "Uses the nova api to retrive a list of instances"
     },
 
     "error": {
