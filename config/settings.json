@@ -1,0 +1,19 @@
+{
+    "slack_api_token": "xoxb-00000000-000000000000000",
+    "datacenters": {
+        "dc1": {
+            "dev_tenancy": {
+                "os_project_id": "xxxxxxxxxxxx"
+            }
+            "os_authaddress": "https://openstack-dc1:5000/v3",
+            "os_username": "admin",
+            "os_password": "admin",
+        },
+        "dc2": {
+            "os_authaddress": "http://openstack-dc2:5000/v3",
+            "os_username": "admin",
+            "os_password": "admin",
+            "os_project_id": "xxxxxxxxxxx"
+        }
+    }
+}

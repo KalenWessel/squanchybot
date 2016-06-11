@@ -1,0 +1,23 @@
+{
+    "help": {
+        "alias": [ "halp" ],
+        "endpoint": "#",
+        "help": "help [command](optional)",
+        "description": "To get help on all supported commands, or a specified command"
+    },
+
+    "uptime": {
+        "alias": [ "uptime" ],
+        "endpoint": "#",
+        "help": "uptime"
+    },
+
+    "nova": {
+        "alias": [ "showme" ],
+        "help": "nova instance_name"
+    },
+
+    "error": {
+        "exclude": true
+    }
+}
