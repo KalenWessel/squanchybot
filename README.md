@@ -1,6 +1,6 @@
 # Squanchy Bot
 
-
+![Alt text](http://i.imgur.com/GJ1eDtj.jpg "")
 
 # Installaion
 
